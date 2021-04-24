@@ -4,9 +4,9 @@ Note Taker
 
 # Description
 Note taker is an application that can be used to write and save notes.
-![alt text](https://github.com/xvirix/Note-Taker/blob/main/Photos/photo1.jpg?raw=true)
-![alt text](https://github.com/xvirix/Note-Taker/blob/main/Photos/photo2.jpg?raw=true)
-![alt text](https://github.com/xvirix/Note-Taker/blob/main/Photos/photo3.jpg?raw=true)
+![alt text](https://github.com/xvirix/Note-Taker/blob/main/Photos/Photo1.jpg)
+![alt text](https://github.com/xvirix/Note-Taker/blob/main/Photos/Photo2.jpg)
+![alt text](https://github.com/xvirix/Note-Taker/blob/main/Photos/Photo3.jpg)
 
 Deployed Link: https://note-taker-17.herokuapp.com/
 
