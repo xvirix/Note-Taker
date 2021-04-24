@@ -1,7 +1,7 @@
 //Dependancies
 const express = require('express');
 const app = express();
-const PORT = 8080;
+const PORT = 80;
 const fs = require('fs');
 const path = require('path');
 const allNotes = require('./db/db.json');
